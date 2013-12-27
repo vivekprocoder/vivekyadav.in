@@ -1,4 +1,4 @@
-# VIVEK personal page
+## VIVEK personal page
 
 This website contains following details :
   * Work and Education
@@ -11,7 +11,7 @@ Developed using HTML5 and php5.
 
 Hosted on Amazon aws.
 
-# License and Copyright
+## License and Copyright
 
 The MIT License (MIT)
 
