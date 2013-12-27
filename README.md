@@ -1,4 +1,4 @@
-VEK YADAV PERSONAL WEBSITE
+VIVEK YADAV PERSONAL WEBSITE
 
 welcome to my github page
 
