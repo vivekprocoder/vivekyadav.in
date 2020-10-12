@@ -1,6 +1,6 @@
 ## VIVEK personal page
 
-www.vivekyadav.in
+https://vivekprocoder.github.io/
 
 This website contains following details :
   * Work and Education
